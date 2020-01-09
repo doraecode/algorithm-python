@@ -18,5 +18,5 @@ def gcd(a,b):
             else :
                 min-=1
     return min
-# should not prime number 
+# shouldn't  used prime number in funtion 
 print("result : ",gcd(A,B))

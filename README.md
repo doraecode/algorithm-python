@@ -1,1 +1,1 @@
-# algorithm-python
+# practice-python
